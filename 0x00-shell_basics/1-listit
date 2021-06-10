@@ -1,2 +1,2 @@
 #!/bin/bash /n
-lsattr
+ls -1
